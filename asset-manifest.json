@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/github.io/meflix/static/js/main.3c524926.chunk.js",
+    "main.js.map": "/github.io/meflix/static/js/main.3c524926.chunk.js.map",
+    "runtime-main.js": "/github.io/meflix/static/js/runtime-main.1dd39508.js",
+    "runtime-main.js.map": "/github.io/meflix/static/js/runtime-main.1dd39508.js.map",
+    "static/js/2.15436e55.chunk.js": "/github.io/meflix/static/js/2.15436e55.chunk.js",
+    "static/js/2.15436e55.chunk.js.map": "/github.io/meflix/static/js/2.15436e55.chunk.js.map",
+    "index.html": "/github.io/meflix/index.html",
+    "static/js/2.15436e55.chunk.js.LICENSE.txt": "/github.io/meflix/static/js/2.15436e55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dd39508.js",
+    "static/js/2.15436e55.chunk.js",
+    "static/js/main.3c524926.chunk.js"
+  ]
+}
